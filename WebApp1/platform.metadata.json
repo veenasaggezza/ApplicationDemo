@@ -5,11 +5,23 @@
   "platformUrl" : null,
   "type" : "Web",
   "createdAt" : "2021-02-17 13:31:24",
-  "modifiedAt" : "2021-02-17 13:31:24",
+  "modifiedAt" : "2021-02-17 13:47:00",
   "createdBy" : "veena.sv@saggezza.com",
   "acl" : null,
   "versions" : [ 2, 3, 4, 5, 11, 6, 7, 8, 9, 10, 12 ],
   "pages" : [ ],
   "subApplications" : [ ],
-  "areas" : [ ]
+  "areas" : [ {
+    "name" : "Checkout",
+    "subAreas" : [ ],
+    "acl" : [ ]
+  }, {
+    "name" : "Shopping",
+    "subAreas" : [ ],
+    "acl" : [ ]
+  }, {
+    "name" : "Signup",
+    "subAreas" : [ ],
+    "acl" : [ ]
+  } ]
 }

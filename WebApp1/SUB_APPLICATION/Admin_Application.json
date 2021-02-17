@@ -1,0 +1,19 @@
+{
+  "id" : null,
+  "subApplicationName" : "Admin_Application",
+  "description" : "",
+  "applicationUrl" : "http://",
+  "acl" : [ ],
+  "areas" : [ {
+    "name" : "Sales",
+    "subAreas" : [ {
+      "name" : "Sales Report",
+      "acl" : [ ]
+    } ],
+    "acl" : [ ]
+  }, {
+    "name" : "Products",
+    "subAreas" : [ ],
+    "acl" : [ ]
+  } ]
+}
