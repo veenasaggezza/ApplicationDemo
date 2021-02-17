@@ -1,0 +1,19 @@
+{
+  "id" : 5862,
+  "applicationName" : "Demo2",
+  "description" : "",
+  "applicationUrl" : "http://",
+  "state" : null,
+  "tag" : "",
+  "repositoryType" : "GIT",
+  "repository" : "https://github.com/veenasaggezza/ApplicationDemo.git",
+  "gitRepositoryBranch" : "main",
+  "gitAaRepository" : "https://github.com/veenasaggezza/AutoAware.git",
+  "gitAaRepositoryBranch" : "main",
+  "gitResultRepository" : "https://github.com/veenasaggezza/Results.git",
+  "gitResultRepositoryBranch" : "main",
+  "gitAaScreenshotsRepository" : "https://github.com/veenasaggezza/AutoAwareScreenshot.git",
+  "gitAaScreenshotsRepositoryBranch" : "main",
+  "repositoryChanged" : false,
+  "platforms" : [ ]
+}
