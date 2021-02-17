@@ -1,4 +1,4 @@
-[ {
+{
   "id" : 5863,
   "platformId" : 1,
   "platformTitle" : "WebApp1",
@@ -12,4 +12,4 @@
   "pages" : [ ],
   "subApplications" : [ ],
   "areas" : [ ]
-} ]
+}
