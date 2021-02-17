@@ -1,0 +1,51 @@
+{
+  "name" : "Signup_Script1",
+  "applicationName" : "Demo2",
+  "platformTitle" : "WebApp1",
+  "containerApplication" : "WebApp1",
+  "type" : "SCRIPTS",
+  "area" : "Signup",
+  "subArea" : "",
+  "release" : "Release _1",
+  "createdBy" : "veena.sv@saggezza.com",
+  "datafiles" : [ ],
+  "steps" : [ {
+    "stepNumber" : 1.0,
+    "actionName" : "OpenApplication",
+    "attributes" : [ {
+      "name" : "Application",
+      "value" : "WebApp1"
+    } ],
+    "sentence" : "Open application <b  class='script-text-line-highlighter'>WebApp1</b>",
+    "referenceNumber" : "16135938070256108"
+  }, {
+    "stepNumber" : 2.0,
+    "actionName" : "Click",
+    "attributes" : [ {
+      "name" : "Page",
+      "value" : "HomePage_veena"
+    }, {
+      "name" : "Object",
+      "value" : "My Account"
+    } ],
+    "sentence" : "Click within <b  class='script-text-line-highlighter'>HomePage_veena</b> page,on  <b  class='script-text-line-highlighter'>My Account</b>",
+    "referenceNumber" : "16135938070316297"
+  }, {
+    "stepNumber" : 3.0,
+    "actionName" : "Click",
+    "attributes" : [ {
+      "name" : "Page",
+      "value" : "HomePage_veena"
+    }, {
+      "name" : "Object",
+      "value" : "Login"
+    } ],
+    "sentence" : "Click within <b  class='script-text-line-highlighter'>HomePage_veena</b> page,on  <b  class='script-text-line-highlighter'>Login</b>",
+    "referenceNumber" : "16135938070311204"
+  } ],
+  "executeRowNum" : 0,
+  "createdTime" : "2021-02-17 14:30:07",
+  "modifiedTime" : "2021-02-17 14:38:06",
+  "requirements" : [ ],
+  "autoAware" : false
+}
