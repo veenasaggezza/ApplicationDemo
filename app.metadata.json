@@ -3,7 +3,7 @@
   "applicationName" : "Demo2",
   "description" : "",
   "applicationUrl" : "http://",
-  "state" : null,
+  "state" : "OPEN",
   "tag" : "",
   "repositoryType" : "GIT",
   "repository" : "https://github.com/veenasaggezza/ApplicationDemo.git",
